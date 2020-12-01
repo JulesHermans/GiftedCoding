@@ -10,5 +10,8 @@ les 2 row-column-expanded challenge solution: https://github.com/JulesHermans/le
 les 2 break egg challenge start: https://github.com/JulesHermans/les2BreakEggChallengeStart<br />
 les 2 break egg challenge solution: https://github.com/JulesHermans/les2BreakEggChallengeSolution
 
-# les 3 projecten
-les 3 voorbeeld quiz app: https://github.com/JulesHermans/les3QuizExample
+# les 3 + 4  QuizApp:
+les 3 + 4 QuizApp final solution: https://github.com/JulesHermans/les3-4QuizFinalSolution
+
+# les 5 QuizApp example: 
+les 5 QuizApp start: https://github.com/JulesHermans/les5QuizAppStart
