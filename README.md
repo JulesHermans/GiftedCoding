@@ -1,6 +1,6 @@
 # GiftedCoding
 # Les 1 projecten
-
+I'm rich App: https://github.com/JulesHermans/GiftedCodingLes1VoorbeeldApp </br>
 
 # les 2 projecten:
 
