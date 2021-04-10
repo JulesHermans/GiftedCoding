@@ -7,6 +7,7 @@ Les1 challenge solution: https://github.com/JulesHermans/les1MyCardChallengeSolu
 les 2 voorbeeld app met counter: https://github.com/JulesHermans/les2StatefullAndInteractionExample <br />
 les 2 row-column-expanded challenge solution: https://github.com/JulesHermans/les2RowColumnExpandedChallengeSolution <br />
 les 2 break egg challenge start: https://github.com/JulesHermans/les2BreakEggChallengeStart<br />
+les 2 break egg challenge solution: https://github.com/JulesHermans/les2BreakEggChallengeSolution
 
 # les 3 + 4  QuizApp:
 QuizApp start/voorbeeld : https://github.com/JulesHermans/Les3QuizAppVoorbeeld<br />
