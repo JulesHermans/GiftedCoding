@@ -11,6 +11,7 @@ les 2 break egg challenge solution: https://github.com/JulesHermans/les2BreakEgg
 
 # les 3 + 4  QuizApp:
 QuizApp start/voorbeeld : https://github.com/JulesHermans/Les3QuizAppVoorbeeld<br />
+les 3 + 4 QuizApp final solution: https://github.com/JulesHermans/les3-4QuizFinalSolution
 
 # les 5 QuizApp example: 
 
